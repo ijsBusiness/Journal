@@ -1,0 +1,80 @@
+- Journal Day 2, 8/17/2023
+  ------------------------
+  
+	- Goals for today
+	  ---------------
+	  
+		- im going to jot down a few ideas for the homepage of the site, maybe even draw some up
+	  
+	- Homepage
+	  --------
+	  
+		- need somthing that will pop
+		
+		- eventually ill include some learned technical exspertice into the page for impressions but i just need the style for now
+		
+		- pick some pallets of colors
+		
+		- maybe some stock images
+		
+		- im feeling somthing minimal, yet complicated?
+		
+		- like some soft pastels and blocky text
+		
+		- maybe a center column layout with content boxes, kinda like reddit 
+		
+		- possible side bars that are static but the middle content is infinite scrolling
+		
+		- make sure to upload this text to github and any subseqent drawings into a "Art" folder
+		
+		- Potential Pallettes
+		  -------------------
+			
+			- https://colorhunt.co/palette/fff3dadfccfbd0bfffbeadfa 
+				
+				- I Like FFF3DA as a background (Idea 1)
+			
+			- https://colorhunt.co/palette/0c356a279eff40f8ffd5ffd0
+			
+				- Possible Gradient With These? (Idea 3)
+
+			- https://colorhunt.co/palette/ffc6acfff6dcc4c1a49e9fa5
+			
+				- 9E9FA5 and FFC6AC for more backgrounds (Idea 2)
+			
+			- https://colorhunt.co/palette/614bc333bbc585e6c5c8ffe0
+			
+				- I like the deeper purple but does it match? (Idea 2)
+				
+			- https://colorhunt.co/palette/222831393e4600adb5eeeeee
+			
+				- this gradient fucks (Idea 4)
+				
+			- https://colorhunt.co/palette/e3fdfdcbf1f5a6e3e971c9ce
+			
+				- these for some backgrounds? (Idea 5)
+				
+			- https://colorhunt.co/palette/0c356a279eff40f8ffd5ffd0
+			
+				- More backgrounds (Idea 6)
+
+		- Gradient background, solid color, or image?
+		
+			- if gradient dont soften the intersections
+			
+			- Idea 3 and 6 show gradients off perfectly
+		
+		- cute or more buisness orientated?
+		
+			- why not both? 
+		
+			- rounded corners or squared?
+			
+				- round for sure
+			
+		- So for the middle collumn i want a main title and into that appears at the top of the scroll list first everytime then     
+		  scrolls up and dissapears
+		  
+			- work for tmo
+			
+		- did 6 itinital ideas and 6 is my favorite so far, tmo i gotta work on the layout some more then worry about external pages

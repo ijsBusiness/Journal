@@ -1,0 +1,47 @@
+- Journal Day 1, 8/16/2023
+  ------------------------
+  
+	- Goals for today
+	  ---------------
+	  
+		- It being the first day of this jorney im going to keep it lite and setup socials
+	  
+	- Setup Socials
+	  -------------
+	  
+		- Setup Business Email
+		  --------------------
+		  
+			- Proton Mail for security
+			
+			- ijsBusiness@protonmail.com if possible
+			
+		- Setup Github
+		  ------------
+		  
+			- New github account with new email
+			
+			- Make a repo Named "Journal"
+			  --------------------
+			  
+				- Create a folder named -> Journal
+			
+				- When done with this very document, upload it as a .txt in the "journal" folder
+				
+			- Make a repo named "ijsBusiness.github.io"
+			  -----------------------------------------
+			  
+				- organize a simple README, and index.htm
+			
+		- Setup Linkdin
+		  -------------
+		  
+			- Update pfp
+			
+			- Make sure personal info is accurate
+			
+			- change email to new one
+			
+			- make sure work/school is accurate
+			
+			- Link to github and vise versa if possible
