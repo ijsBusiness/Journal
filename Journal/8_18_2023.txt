@@ -1,0 +1,38 @@
+- Journal Day 3, 8/18/2023
+  ------------------------
+  
+	- Goals for today
+	  ---------------
+	  
+		- Today is more desgin work, im still vibing with 8_17_2023_Idea_6.png, i also needc to worry about more pages and the aformetions main-main pages
+		
+	- Design 2: electric boogaloo
+	  ---------------------------
+		
+		- ok so im still wanting a "cuter version" yet the absolute vibe of 8_17_2023_Idea_6.png makes me wornder if i can do a 
+
+		  "light and dark mode" where i keep 8_17_2023_Idea_6.png but make a purple/pink version
+			
+			- Possible animated button some where to show css technique
+			
+		- Possible Palettes
+		  -----------------
+			
+			- https://colorhunt.co/palette/ffeeccffddccffccccfebbcc
+			
+				- cute (8_18_2023_Idea_1.png)
+			
+			- https://colorhunt.co/palette/fde5ecfcbaade48586916db3
+			
+				- for more backgrounds (8_18_2023_Idea_2.png)
+				
+		- ok so i have an idea for the blue upper right-had side blue square
+		
+			- keep same color for light and dark 
+			
+			- so like it will be the main logo background (8_18_2023_Idea_3.png and 8_18_2023_Idea_4.png
+			
+			- then when scrolled it'll animate over to position in (8_18_2023_Idea_2.png and 8_17_2023_Idea_6.png)
+			
+		- I think i have the basic concept down im going to ignore the extra pages for now and worry more about more homepage 
+		  specifics tomorrow
