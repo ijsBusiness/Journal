@@ -1,0 +1,46 @@
+- Journal Day 3, 8/18/2023
+  ------------------------
+  
+	- Goals for today
+	  ---------------
+	  
+		- I have enough to go off of for now to acually start with the homepage .htm
+		
+	- .HTM
+	  ----
+		
+		- Blowing the dust off of good ol' "https://www.w3schools.com/" havent used this site sense high school
+		
+		- If memory serves right then i need to start with and index.htm and some other folder organization with 
+		  scripts and stylesheets to keep neat from the "get-go"
+		  
+			- uploading working dir into a "Site" subfolder here as well as to "ijsBusiness.github.io" for use of githubs
+			  free webhosting
+			
+		- going to start with "8_18_2023_Idea_4.png"
+			
+			- again going off memory of my "old school" web design days i'll want to make use of css grids for a modular 
+			  design that can fit well on difrent screen sizes
+			  
+				- a lot of work other than grids will have to be used for this but its a good idea to start thinking modulaar in
+				  these early desgin days
+		
+		- starting with good ol' DOCTYPE
+		
+			- why do i need this again? 
+			
+				- "The <!DOCTYPE html> declaration defines that this document is an HTML5 document" sure?
+				
+					- chat gpt says "In the early days of the web, different browsers implemented HTML standards in slightly different ways. To address compatibility issues, browsers introduced "quirks mode" and "standards mode." The presence of a proper <!DOCTYPE> declaration helps trigger the browser's standards mode, ensuring consistent rendering across different browsers." and "Without a <!DOCTYPE> declaration, browsers might go into quirks mode, which essentially emulates the behavior of older, less standardized browsers."
+					
+		- The rest of the ez shiz is self explanitory, tags wise
+		
+		- messing with css a little today
+		
+			- For the life of me i cant remember the diffrence between class and id
+			
+				- "The id of an element is unique within a page, so the id selector is used to select one unique element!"
+				
+					- Real
+		
+		- alright a good first night of markup see "ijsBusiness.github.io" for results
