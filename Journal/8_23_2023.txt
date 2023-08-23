@@ -42,5 +42,12 @@
 				- "The id of an element is unique within a page, so the id selector is used to select one unique element!"
 				
 					- Real
+					
+					
+		- ive relearned the css "grid"
+		
+			- im using the body element as the main container
+			
+			- I have 3 boxes on the grid currently relating to the 3 boxes shown in "8_18_2023_Idea_4.png"
 		
 		- alright a good first night of markup see "ijsBusiness.github.io" for results
