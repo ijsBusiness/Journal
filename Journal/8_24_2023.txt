@@ -1,0 +1,55 @@
+- Journal Day 5, 8/24/2023
+  ------------------------
+  
+	- Goals for today
+	  ---------------
+	  
+		- yesterdays refresher of html and css was refreshing, now that i have a little more of a grasp on it ima finish up the 
+		  homepage
+		
+	- Homepage
+	  --------
+	  
+		- gradient, reinvent the wheel?
+		  -----------------------------
+		  
+			- so like i was wondering at work today does the built in css gradient look for what im going for?
+			
+				- here the colors i need for the background ("8_18_2023_Idea_4.png"):
+				
+					- #222831
+
+					- #393E46
+					
+					- #00ADB5
+					
+					- #EEEEEE
+					
+				- the built in one kinda sucks ill prob juss use grid
+				
+					- look great
+					
+		- Im worried that with how rusty i am my page will un-optimized with old tech
+		
+			- where does one learn current css tech?
+			
+		- Now the foreground
+		  ------------------
+		  
+			- colors for the foreground boxes:
+			
+				- #71C9CE
+			
+				- #0C356A
+				
+			- bruh but how?
+			  -------------
+			  
+				- how am i gonna space these? 
+				
+				- im only gonna worry about the left and right boxes the middle need some extra work
+				
+	- Fin
+	  ---
+		
+		- welp i gotta finish the foreground tmo, duces
